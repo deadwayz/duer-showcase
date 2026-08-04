@@ -19,8 +19,8 @@ Duer was built to solve a common operational challenge: keeping track of recurri
 
 ## Built with
 
-* Cloudflare Workers
-* Cloudflare D1 Database
+* Supabase (Authentication, Database & Realtime)
+* PostgreSQL
 * JavaScript
 * AI-powered workflows
 * Operational analytics and reporting
